@@ -1,2 +1,2 @@
-# JavaSE-
-JavaSE基础知识总结
+# JavaSE-Study-Note
+A place to record my JavaSE study note.
